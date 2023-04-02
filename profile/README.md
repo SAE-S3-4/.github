@@ -10,6 +10,8 @@ Cette application est le coeur de notre Serious Game portant sur le thème des r
 ### Le Serveur 🚀
 Le dernier repertoire sert à stocker le porjet du Serveur communiquant avec l'application réalisé en Java.
 
+<h3 style="color: red">Les répertoires sont accessibles ci-dessous</h3>
+
 ## Mise en place des projets 🔴 ‼️ 🔴
 Les répertoires du **Site** et de **l'Application** peuvent être clonés, mais ils ne seront pas fonctionnels dès le départ car nous avons supprimé les accès à la base de données pour une question de sécurité.
 
