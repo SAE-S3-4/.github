@@ -1,7 +1,7 @@
 # Find the Breach
 Cette organisation à pour but de regrouper les différents éléments que nous avons utilisés pour réaliser notre SAE des 3ème et 4ème semestre.
 
-## Repartition des repertoires
+## Repartition des répertoires
 ### Le Site 🔧
 Le premier répertoire sert à stocker le projet du site web en PHP pour l'administration et l'accueil des utilisateurs.
 ### L'Application 🎮
