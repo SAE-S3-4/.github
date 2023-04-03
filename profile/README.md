@@ -30,6 +30,13 @@ Elle est accessible à l'adresse suivante :
 
 https://github.com/SAE-S3-4/.github/blob/main/initDB.sql
 
+## Tableau de Bord 📊
+Les tableaux de bord des deux sprints de notre SAE sont disponibles à l'adresse suivante :
+
+https://github.com/SAE-S3-4/.github/blob/main/Tableau%20de%20bord%20S4.png
+
+Vous y trouverez les personnes ayant participées et leurs tâches.
+
 ## Membres du projet 🧑‍💻
 
 Ceccarelli Luca</br>
